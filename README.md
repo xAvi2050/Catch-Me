@@ -10,8 +10,8 @@ This is a fun JavaScript project where a button moves to a random position whene
 
 ▶ Fun Use Cases:
 <br>
-Prank your friends with an unclickable button!
+→ Prank your friends with an unclickable button!
 <br>
-Test UI interactions with unexpected behavior.
+→ Test UI interactions with unexpected behavior.
 <br>
-Make "I Agree" buttons frustratingly hard to click!
+→ Make "I Agree" buttons frustratingly hard to click!
